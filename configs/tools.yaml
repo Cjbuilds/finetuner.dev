@@ -1,0 +1,3 @@
+use_calculator: true
+use_web_search: true
+max_tool_calls_per_sample: 3

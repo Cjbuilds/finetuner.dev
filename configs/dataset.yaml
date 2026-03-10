@@ -1,0 +1,12 @@
+num_samples: 100
+single_ratio: 0.7
+multi_ratio: 0.3
+max_turns: 4
+eval_split: 0.1
+batch_size: 5
+candidates_per_question: 5
+keep_per_question: 2
+min_score: 7.0
+dedup_threshold: 0.85
+max_retries: 3
+shuffle_seed: 42
