@@ -1,0 +1,24 @@
+# Environment
+.env
+__pycache__/
+*.pyc
+
+# Runtime generated files
+intake/raw_intake.md
+intake/enriched_intake.md
+configs/models.yaml
+research/research_notes.md
+research/finetune_spec.md
+project/
+
+# Data
+data/
+
+# Outputs
+outputs/
+logs/errors.jsonl
+logs/run_*.jsonl
+
+# IDE
+.vscode/
+.idea/
